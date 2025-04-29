@@ -91,6 +91,8 @@ jobs:
           publish_dir: ./dist
 
           publish_branch: output
+          user_name: 'Z3NGHACK'
+          user_email: 'zenghack1@gmail.com'
 
           # Optionally, you can set a custom commit message
 
